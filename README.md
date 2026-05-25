@@ -6,7 +6,7 @@
 
 ![score progression](./assets/img1_score_progression.png)
 
----
+~~
 
 ## Why this repo exists
 
@@ -352,7 +352,7 @@ MIT — see `LICENSE`.
 
 Built by **[Your Name]** as part of a Data Scientist → AI Engineer transition. If this repo helped, gave you an idea, or you spotted something I got wrong — open an issue or DM me on LinkedIn.
 
-📫 [LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:you@example.com) · [More projects](https://github.com/your-username)
+📫 [LinkedIn](https://www.linkedin.com/in/viraj97) · [Email](mailto:amanthavirajavb@gmail.com) · [More projects](https://github.com/Viraj97-SL)
 
 ---
 
