@@ -4,7 +4,7 @@
 
 **Final result: OOF AUC 0.9494** (single best model: CatBoost @ 0.9492 · 5-model rank-weighted ensemble @ 0.9494)
 
-![score progression](./assets/img1_score_progression.png)
+![score progression](./assests/img1_score_progression.png)
 
 ~~
 
@@ -74,7 +74,7 @@ The DS → AI engineer transition isn't about abandoning the rigor that makes da
 
 ## The Four Anomalies Phase 1 Found
 
-![anomalies](./assets/img2_anomalies.png)
+![anomalies](./assests/img2_anomalies.png)
 
 Phase 1 ran eight automated invariant checks. Four passed (no nulls, ids unique, target binary, all test levels seen in train). **Four returned surprises that reshaped the entire strategy:**
 
@@ -89,7 +89,7 @@ Max abs error of `RaceProgress - LapNumber/MaxLap` across the full dataset was *
 
 ### 4. CV strategy carries a 0.016 AUC penalty
 
-![cv comparison](./assets/img3_cv_comparison.png)
+![cv comparison](./assests/img3_cv_comparison.png)
 
 `StratifiedKFold` (random rows): **0.9431**.
 `StratifiedGroupKFold` by `(Race, Year)`: **0.9273**.
